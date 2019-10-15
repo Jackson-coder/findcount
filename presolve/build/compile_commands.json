@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/linyihong/findcount/presolve/build",
+  "command": "/usr/bin/g++-7   -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/presolve.dir/main.cpp.o -c /home/linyihong/findcount/presolve/main.cpp",
+  "file": "/home/linyihong/findcount/presolve/main.cpp"
+}
+]
